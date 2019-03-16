@@ -1,0 +1,2 @@
+# SingletonModel
+SingletonModel exercise
